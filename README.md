@@ -31,7 +31,7 @@ $ npm install --save resin-pine
 Documentation
 -------------
 
-Head over to [pinejs-client-js](https://github.com/resin-io-modules/pinejs-client-js) for documentation.
+Head over to [pinejs-client-js](https://github.com/resin-io/pinejs-client-js) for documentation.
 
 Support
 -------
